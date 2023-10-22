@@ -1,3 +1,3 @@
-# MOVIE REVIEWS BACKEND
+# MOVIE REVIEWS BACKEND API
 
 - Use mongodb database.
